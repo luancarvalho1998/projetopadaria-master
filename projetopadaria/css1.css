@@ -1,0 +1,35 @@
+﻿body {
+    margin: 0;
+    text-align: center;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    font-family: Tahoma;
+    color: #333;
+    font-size: 40px;
+}
+h2 {
+  margin: 0;
+    text-align: center;
+    font-family: Tahoma;
+    color: #333;
+    font-size: 30px;
+    }
+
+h3{
+    margin: 0;
+    text-align: center;
+    font-family: Tahoma;
+    color: #333;
+    font-size: 20px;
+}
+li {
+    margin: 0;
+    text-align: center;
+    font-size: 15px;
+}
+div {
+    margin: 0;
+    text-align: center;
+}
